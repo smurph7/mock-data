@@ -1,0 +1,124 @@
+{
+  "bills": [
+    {
+      "id": 1,
+      "amount": 20,
+      "date": "2020-01-20",
+      "status": "paid",
+      "url": "https://via.placeholder.com/240x320/33FFFA?text=School+Fees",
+      "thumbnailUrl": "https://via.placeholder.com/150/33FFFA?text=School+Fees"
+    },
+    {
+      "id": 2,
+      "amount": 200,
+      "date": "2020-02-02",
+      "status": "paid",
+      "url": "https://via.placeholder.com/240x320/FAFF33?text=Vet+Invoice",
+      "thumbnailUrl": "https://via.placeholder.com/150/FAFF33?text=Vet+Invoice"
+    },
+    {
+      "id": 3,
+      "amount": 70,
+      "date": "2020-03-26",
+      "status": "paid",
+      "url": "https://via.placeholder.com/240x320/92c952?text=Phone+Bill+March",
+      "thumbnailUrl": "https://via.placeholder.com/150/92c952?text=Phone+Bill+March"
+    },
+    {
+      "id": 4,
+      "amount": 59.99,
+      "date": "2020-03-28",
+      "status": "paid",
+      "url": "https://via.placeholder.com/240x320/FF335F?text=Internet+Bill+March",
+      "thumbnailUrl": "https://via.placeholder.com/150/FF335F?text=Internet+Bill+March"
+    },
+    {
+      "id": 5,
+      "amount": 70,
+      "date": "2020-04-26",
+      "status": "paid",
+      "url": "https://via.placeholder.com/240x320/92c952?text=Phone+Bill+April",
+      "thumbnailUrl": "https://via.placeholder.com/150/92c952?text=Phone+Bill+April"
+    },
+    {
+      "id": 6,
+      "amount": 59.99,
+      "date": "2020-04-28",
+      "status": "paid",
+      "url": "https://via.placeholder.com/240x320/FF335F?text=Internet+Bill+April",
+      "thumbnailUrl": "https://via.placeholder.com/150/FF335F?text=Internet+Bill+April"
+    },
+    {
+      "id": 7,
+      "amount": 70,
+      "date": "2020-05-26",
+      "status": "paid",
+      "url": "https://via.placeholder.com/240x320/92c952?text=Phone+Bill+May",
+      "thumbnailUrl": "https://via.placeholder.com/150/92c952?text=Phone+Bill+May"
+    },
+    {
+      "id": 8,
+      "amount": 59.99,
+      "date": "2020-05-28",
+      "status": "paid",
+      "url": "https://via.placeholder.com/240x320/FF335F?text=Internet+Bill+May",
+      "thumbnailUrl": "https://via.placeholder.com/150/FF335F?text=Internet+Bill+May"
+    },
+    {
+      "id": 9,
+      "amount": 70,
+      "date": "2020-06-26",
+      "status": "paid",
+      "url": "https://via.placeholder.com/240x320/92c952?text=Phone+Bill+June",
+      "thumbnailUrl": "https://via.placeholder.com/150/92c952?text=Phone+Bill+June"
+    },
+    {
+      "id": 10,
+      "amount": 59.99,
+      "date": "2020-06-28",
+      "status": "paid",
+      "url": "https://via.placeholder.com/240x320/FF335F?text=Internet+Bill+June",
+      "thumbnailUrl": "https://via.placeholder.com/150/FF335F?text=Internet+Bill+June"
+    },
+    {
+      "id": 11,
+      "amount": 146.98,
+      "date": "2020-07-11",
+      "status": "processing",
+      "url": "https://via.placeholder.com/240x320/CE33FF?text=Gas+Bill",
+      "thumbnailUrl": "https://via.placeholder.com/150/CE33FF?text=Gas+Bill"
+    },
+    {
+      "id": 12,
+      "amount": 114.95,
+      "date": "2020-07-11",
+      "status": "unable to pay",
+      "url": "https://via.placeholder.com/240x320/33DDFF?text=Water+Bill",
+      "thumbnailUrl": "https://via.placeholder.com/150/33DDFF?text=Water+Bill"
+    },
+    {
+      "id": 13,
+      "amount": 79.76,
+      "date": "2020-07-13",
+      "status": "processing",
+      "url": "https://via.placeholder.com/240x320/FF8F33?text=Physio+Invoice",
+      "thumbnailUrl": "https://via.placeholder.com/150/FF8F33?text=Physio+Invoice"
+    },
+    {
+      "id": 14,
+      "amount": 70,
+      "date": "2020-07-26",
+      "status": "scheduled",
+      "url": "https://via.placeholder.com/240x320/92c952?text=Phone+Bill+July",
+      "thumbnailUrl": "https://via.placeholder.com/150/92c952?text=Phone+Bill+July"
+    },
+    {
+      "id": 15,
+      "amount": 59.99,
+      "date": "2020-07-28",
+      "status": "scheduled",
+      "url": "https://via.placeholder.com/240x320/FF335F?text=Internet+Bill+July",
+      "thumbnailUrl": "https://via.placeholder.com/150/FF335F?text=Internet+Bill+July"
+    }
+  ]
+}
